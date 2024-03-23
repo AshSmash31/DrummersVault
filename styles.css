@@ -1,9 +1,9 @@
 body {
-  background-color: wheat;
-  text-align: center;
-  color: aliceblue;
-  font-family: serif;
+  font-family: Arial;
+  padding: 10px;
+  background: #f1f1f1;
 }
+
 /* Header/Blog Title */
 .header {
   padding: 30px;
@@ -19,14 +19,6 @@ body {
 .topnav {
   overflow: hidden;
   background-color: #333;
-}
-h1 {
-    font-family: sans-serif;
-    text-align: center;
-}
-
-h2 {
-font-family: sans-serif;
 }
 
 p {
